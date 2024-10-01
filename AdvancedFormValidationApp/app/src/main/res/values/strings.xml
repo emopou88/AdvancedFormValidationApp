@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdvancedFormValidationApp</string>
+    <string name="imie">Imię</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="adres_email">Adres e-mail</string>
+    <string name="numer_telefonu">Numer telefonu</string>
+    <string name="haslo">Hasło</string>
+    <string name="potwierdzenie_hasla">Potwierdzenie hasła</string>
+    <string name="wyslij">Wyślij</string>
+</resources>
